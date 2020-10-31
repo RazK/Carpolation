@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93ef8be7-3443-46df-9735-5f1f74cab68b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jdtZSxoTNeVtuw1waYPV3uVwm8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DIB-R/venv-cpu/Scripts/python.exe" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test-all" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Carpolation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Carpolation\DIB-R\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DIB-R/dib-render" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DIB-R/dib-render/test-all.py" />
+      <option name="PARAMETERS" value="--g_model_dir ./checkpoints/g_model.pth --svfolder ./prediction --data_folder ./dataset --filelist ./test_list.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93ef8be7-3443-46df-9735-5f1f74cab68b" name="Default Changelist" comment="" />
+      <created>1604145851600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604145851600</updated>
+      <workItem from="1604145854453" duration="634000" />
+      <workItem from="1604146855641" duration="1701000" />
+      <workItem from="1604155141204" duration="724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1334" y="-70" key="#Inspections" timestamp="1604146902521">
+      <screen x="-1920" y="-268" width="1920" height="1040" />
+    </state>
+    <state x="-1334" y="-70" key="#Inspections/0.0.1280.680/-1920.-268.1920.1040@-1920.-268.1920.1040" timestamp="1604146902521" />
+    <state x="-1506" y="-93" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604154283033">
+      <screen x="-1920" y="-268" width="1920" height="1040" />
+    </state>
+    <state x="-1506" y="-93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-1920.-268.1920.1040@-1920.-268.1920.1040" timestamp="1604154283033" />
+    <state x="-1180" y="7" key="FileChooserDialogImpl" timestamp="1604154160984">
+      <screen x="-1920" y="-268" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="7" key="FileChooserDialogImpl/0.0.1280.680/-1920.-268.1920.1040@-1920.-268.1920.1040" timestamp="1604154160984" />
+    <state width="752" height="613" key="GridCell.Tab.0.bottom" timestamp="1604154263710">
+      <screen x="-1920" y="-268" width="1920" height="1040" />
+    </state>
+    <state width="752" height="613" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.-268.1920.1040@-1920.-268.1920.1040" timestamp="1604154263710" />
+    <state width="752" height="613" key="GridCell.Tab.0.center" timestamp="1604154263710">
+      <screen x="-1920" y="-268" width="1920" height="1040" />
+    </state>
+    <state width="752" height="613" key="GridCell.Tab.0.center/0.0.1280.680/-1920.-268.1920.1040@-1920.-268.1920.1040" timestamp="1604154263710" />
+    <state width="752" height="613" key="GridCell.Tab.0.left" timestamp="1604154263710">
+      <screen x="-1920" y="-268" width="1920" height="1040" />
+    </state>
+    <state width="752" height="613" key="GridCell.Tab.0.left/0.0.1280.680/-1920.-268.1920.1040@-1920.-268.1920.1040" timestamp="1604154263710" />
+    <state width="752" height="613" key="GridCell.Tab.0.right" timestamp="1604154263710">
+      <screen x="-1920" y="-268" width="1920" height="1040" />
+    </state>
+    <state width="752" height="613" key="GridCell.Tab.0.right/0.0.1280.680/-1920.-268.1920.1040@-1920.-268.1920.1040" timestamp="1604154263710" />
+    <state width="752" height="613" key="GridCell.Tab.1.bottom" timestamp="1604154263710">
+      <screen x="-1920" y="-268" width="1920" height="1040" />
+    </state>
+    <state width="752" height="613" key="GridCell.Tab.1.bottom/0.0.1280.680/-1920.-268.1920.1040@-1920.-268.1920.1040" timestamp="1604154263710" />
+    <state width="752" height="613" key="GridCell.Tab.1.center" timestamp="1604154263710">
+      <screen x="-1920" y="-268" width="1920" height="1040" />
+    </state>
+    <state width="752" height="613" key="GridCell.Tab.1.center/0.0.1280.680/-1920.-268.1920.1040@-1920.-268.1920.1040" timestamp="1604154263710" />
+    <state width="752" height="613" key="GridCell.Tab.1.left" timestamp="1604154263710">
+      <screen x="-1920" y="-268" width="1920" height="1040" />
+    </state>
+    <state width="752" height="613" key="GridCell.Tab.1.left/0.0.1280.680/-1920.-268.1920.1040@-1920.-268.1920.1040" timestamp="1604154263710" />
+    <state width="752" height="613" key="GridCell.Tab.1.right" timestamp="1604154263710">
+      <screen x="-1920" y="-268" width="1920" height="1040" />
+    </state>
+    <state width="752" height="613" key="GridCell.Tab.1.right/0.0.1280.680/-1920.-268.1920.1040@-1920.-268.1920.1040" timestamp="1604154263710" />
+    <state x="-1437" y="-113" key="SettingsEditor" timestamp="1604154382584">
+      <screen x="-1920" y="-268" width="1920" height="1040" />
+    </state>
+    <state x="-1437" y="-113" key="SettingsEditor/0.0.1280.680/-1920.-268.1920.1040@-1920.-268.1920.1040" timestamp="1604154382584" />
+    <state x="-1247" y="-138" width="1017" height="780" key="find.popup" timestamp="1604155242652">
+      <screen x="-1920" y="-268" width="1920" height="1040" />
+    </state>
+    <state x="-1247" y="-138" width="1017" height="780" key="find.popup/0.0.1280.680/-1920.-268.1920.1040@-1920.-268.1920.1040" timestamp="1604155242652" />
+    <state x="-1297" y="-43" width="672" height="678" key="search.everywhere.popup" timestamp="1604147640643">
+      <screen x="-1920" y="-268" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="-43" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/-1920.-268.1920.1040@-1920.-268.1920.1040" timestamp="1604147640643" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DIB-R/dib-render/test-all.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Carpolation$test_all.coverage" NAME="test-all Coverage Results" MODIFIED="1604154401719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DIB-R/dib-render" />
+  </component>
+</project>
